@@ -94,4 +94,4 @@ Outputs PDF and PNG figures to `figures/output/`.
 ## Contact
 
 Farzin Ahmadi — fahmadi@towson.edu  
-Fardin Ganjkhanloo — fardin.ganjkhanloo@jhu.edu
+Fardin Ganjkhanloo — fganjkh1@jhu.edu
